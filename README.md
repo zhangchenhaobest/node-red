@@ -1,3 +1,29 @@
+# node-red
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Low-code programming for event-driven applications
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+面向事件驱动应用的低代码编程工具。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 
 [![License][badge-license]][link-license] [![Build Status][badge-build]][link-build]
